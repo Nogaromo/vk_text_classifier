@@ -8,6 +8,7 @@
 * lstm.ipynb - самописная сеть для классификации
 * pure_catboost.ipynb - использовнаие `text_features` для `catboost`
 * training_on_embeddings.ipynb - обучение кэтбуста и полносвязной сетки на эмбеддингах
+* tf-idf.ipynb - обучение с `tf-idf` и `count_vectorizer`
 * test_preds.csv - файл со скорами для теста
 * requirements.txt - файл с зависимостями, сделанный через pip freeze, потому что у pipreqs были проблемы с кодировкой и он не хотел составлять нормальный файл с зависимостями, поэтому пришлось фризить
 # Лучшая модель
